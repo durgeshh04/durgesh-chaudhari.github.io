@@ -158,7 +158,7 @@ for (let i = 0; i < navigationLinks.length; i++) {
 
 document.getElementById("download-resume").addEventListener("click", function () {
   const link = document.createElement("a");
-  link.href = "../files/Durgesh_Chaudhari_8554070012.pdf";
+  link.href = "/files/Durgesh_Chaudhari_8554070012.pdf";
   link.download = "Durgesh_Chaudhari_8554070012.pdf";
   link.click();
 });
