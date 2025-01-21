@@ -1,6 +1,6 @@
 # Personal portfolio
 
-This portfoli is a fully responsive personal, responsive for all devices, built using HTML, CSS, and JavaScript.
+This portfolio is a fully responsive personal, responsive for all devices, built using HTML, CSS, and JavaScript.
 
 
 ## Prerequisites
