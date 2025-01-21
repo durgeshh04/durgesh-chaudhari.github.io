@@ -1887,3 +1887,22 @@ textarea.form-input::-webkit-resizer { display: none; }
   .timeline-text { max-width: 700px; }
 
 }
+
+#download-resume {
+  background-color: #007BFF;
+  color: #fff;
+  border: none; 
+  padding: 10px 20px; 
+  font-size: 16px; 
+  border-radius: 5px; 
+  cursor: pointer; 
+  transition: background-color 0.3s ease;
+}
+
+#download-resume:hover {
+  background-color: #0056b3; 
+}
+
+#download-resume:active {
+  background-color: #004085; 
+}
